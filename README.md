@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startup companies
 - 📫 How to reach me venkatasaipalla2019@gmail.com
 
-[![Views](https://git-awards.com/api/v1/users/venkatsaipalla/views?count=true&theme=radical)](https://github.com/{username})
+[![Views](https://git-awards.com/api/v1/users/venkatsaipalla/views?count=true&theme=radical)](https://github.com/venkatsaipalla)
 
 
 <!---
