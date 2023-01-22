@@ -8,7 +8,9 @@
 ![Profile views](https://gpvc.arturio.dev/venkatsaipallavenkatsaipalla)
 
 
-[![Views](https://github-readme-stats.vercel.app/api?username=venkatsaipalla&show_icons=true)
+![Views](https://github-readme-stats.vercel.app/api?username=venkatsaipalla&show_icons=true)
+
+![Views](https://github-stats-alpha.vercel.app/api?username=venkatsaipalla)
 
 <!---
 venkatsaipalla/venkatsaipalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
