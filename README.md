@@ -5,7 +5,7 @@
 - 📫 How to reach me venkatasaipalla2019@gmail.com
 
 ###
-![Profile views](https://gpvc.arturio.dev/venkatsaipallavenkatsaipalla)
+ ![Profile views](https://gpvc.arturio.dev/venkatsaipallavenkatsaipalla)
 
 
 ![Views](https://github-readme-stats.vercel.app/api?username=venkatsaipalla&show_icons=true)
